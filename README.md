@@ -1,10 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋,  my name is Jonathan.
 
 - 🕵️‍♂️ I'm currently working with search in technologie & innovation
-- 🌱 I’m currently learning Deep learning and Flutter
-                                                                    
-
+- 🌱 I'm currently learning new technologies with use of IA in computer systems and, data science.                                                                 
 
 <div align="center">
   <a href="https://github.com/JonathanCristovao">
@@ -12,8 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanCristovao&layout=compact&langs_count=16&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
     
-    
-### Language & Tools
+  
+### My skills (Language & Tools)
 <div style="display: inline_block><br>
 
 <img align ="center" alt = "Jonathan-C" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -29,14 +26,54 @@
 <img align ="center" alt alt = "Jonathan-Linux" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align ="center" alt alt = "Jonathan-Postgresql" hight ="30" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align ="center" alt alt = "Jonathan-Mysql" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-                                                                                                                                                
+ 
+ 
+ 
 
- ### Embeded systems 
+### Analytics
+![Google_Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<br/>
+<br/>
+
+### Data analysis
+<img src="https://img.shields.io/badge/-Numpy-181717?style=for-the-badge&logo=Numpy" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-181717?style=for-the-badge&logo=Matplotlib" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Seaborn-181717?style=for-the-badge&logo=Seaborn" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-ggplot2-181717?style=for-the-badge&logo=ggplot2" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Plotly-181717?style=for-the-badge&logo=Plotly" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-SciPy -181717?style=for-the-badge&logo=SciPy" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
+  
+### Machine Learning
+<img src="https://img.shields.io/badge/-Machine learning-181717?style=for-the-badge&logo=Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Regression model-181717?style=for-the-badge&logo=Regression_model" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Classification-181717?style=for-the-badge&logo=classification" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Data analysis-181717?style=for-the-badge&logo=Data_analysis" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Recommendation systems-181717?style=for-the-badge&logo=recommendation_systems" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Supervised algorithms-181717?style=for-the-badge&logo=supervised_algorithms" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-unsupervised algorithms-181717?style=for-the-badge&logo=unsupervised_algorithms" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-Time series-181717?style=for-the-badge&logo=Time_series" />&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
+<br/>
+  
+### Deep Learning
+<img src="https://img.shields.io/badge/-ANN Artificial neural network-181717?style=for-the-badge&logo=ANN_Artificial_neural_network" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-CNN Convolutional-181717?style=for-the-badge&logo= ANN_Convolutional" />&nbsp;&nbsp;&nbsp;&nbsp;
+                                                   
+<img src="https://img.shields.io/badge/-Computer vision-181717?style=for-the-badge&logo=Computer_Vision" />&nbsp;&nbsp;&nbsp;&nbsp;
+  
+                                                                                                                                   
+
+### Embeded systems 
  <img align ="center" alt alt = "Jonathan-Arduino" hight ="30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />    
 <img align ="center" alt alt = "Jonathan-Raspberry" hight ="90" width = "120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
   
   
-   ## Social
+### Social
  
    <a href= "https://www.linkedin.com/in/jonathan-cristovao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
