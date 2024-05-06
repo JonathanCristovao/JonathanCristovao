@@ -1,7 +1,6 @@
 ### Hi there 👋,  my name is Jonathan.
 
-- 🕵️‍♂️ I'm currently working with search in technologie & innovation
-- 🌱 I'm currently learning new technologies with use of IA in computer systems and, data science.                                                                 
+🕵️‍♂️ I'm currently immersed in technology and innovation, focusing on new technologies. Furthermore,  I'm diving into the exciting realm of AI, DevOps, and data science, looking forward to exploring new technologies and their applications on this journey of continuous learning and discovery.                                                             
 
 <div align="center">
   <a href="https://github.com/JonathanCristovao">
