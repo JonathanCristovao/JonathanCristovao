@@ -20,17 +20,22 @@
 <img align ="center" alt = "Jonathan-Cplusplus" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align ="center" alt = "Jonathan-Python" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align ="center" alt = "Jonathan-TensorFlow" hight ="30" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align ="center" alt = "Jonathan-Flutter" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align ="center" alt = "Jonathan-Firebase" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />                                                                                                                                                     
-<img align ="center" alt = "Jonathan-GitHub" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align ="center" alt = "Jonathan-Gitbash" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-<img align ="center" alt alt = "Jonathan-Jupyter" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+                                                                                                                                               
 <img align ="center" alt alt = "Jonathan-Vscode" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align ="center" alt alt = "Jonathan-Linux" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align ="center" alt alt = "Jonathan-Postgresql" hight ="30" width = "40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align ="center" alt alt = "Jonathan-Mysql" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align ="center" alt alt = "Jonathan-Docker" hight ="30" width = "40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
 
+<img align ="center" alt = "Jonathan-Dbeaver" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+     
+<img align ="center" alt alt = "Jonathan-Docker" hight ="30" width = "40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" />
+<img align ="center" alt alt = "Jonathan-OpenCV" hight ="30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" />
+<img align ="center" alt alt = "Jonathan-apachespark" hight ="60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+<img align ="center" alt alt = "Jonathan-Mysql" hight ="60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align ="center" alt = "Jonathan-FastAPI" hight ="60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" />
+<img align ="center" alt = "Jonathan-FastAPI" hight ="60" width = "80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
+           
+<img align ="center" alt = "Jonathan-Postman" hight ="60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" />
+<img align ="center" alt = "Jonathan-Pytorch" hight ="60" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+<img align ="center" alt = "Jonathan-Streamlit" hight ="60" width = "80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" />
+<img align ="center" alt = "Jonathan-Gitbash" hight ="50" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />                  
  
  
  
