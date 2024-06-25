@@ -1,15 +1,6 @@
 ### Hi there 👋,  my name is Jonathan.
 
 🕵️‍♂️ I'm currently immersed in technology and innovation, focusing on new technologies. Furthermore,  I'm diving into the exciting realm of AI, DevOps, and data science, looking forward to exploring new technologies and their applications on this journey of continuous learning and discovery.                                                             
-
-<div align="center">
-  <a href="https://github.com/JonathanCristovao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathanCristovao&layout=compact&langs_count=16&theme=dark&include_all_commits=true&count_private=true"/>
-
-  <a href="https://github.com/JonathanCristovao">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanCristovao&layout=compact&langs_count=7&theme=dark" />
-</div>  
     
     
   
